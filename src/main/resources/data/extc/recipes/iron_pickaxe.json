@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    " S "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "extc:stone_pickaxe"
+    }
+  },
+  "result": {
+    "item": "extc:iron_pickaxe",
+    "count": 1
+  }
+}

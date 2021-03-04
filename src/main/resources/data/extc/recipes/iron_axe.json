@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii",
+    "iS"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "extc:stone_axe"
+    }
+  },
+  "result": {
+    "item": "extc:iron_axe",
+    "count": 1
+  }
+}

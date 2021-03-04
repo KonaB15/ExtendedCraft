@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    " I "
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "extc:iron_pickaxe"
+    }
+  },
+  "result": {
+    "item": "extc:gold_pickaxe",
+    "count": 1
+  }
+}

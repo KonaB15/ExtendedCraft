@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "extc:konium_ore"
+  },
+  "result": "extc:konium",
+  "experience": 3.0,
+  "cookingtime": 600
+}

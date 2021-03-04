@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iCi",
+    "iii",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "extc:chain_chestplate"
+    }
+  },
+  "result": {
+    "item": "extc:iron_chestplate",
+    "count": 1
+  }
+}

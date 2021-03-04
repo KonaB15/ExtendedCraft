@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extc:konium_block"
+    }
+  ],
+  "result":
+  {
+    "item": "extc:konium_r",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "extc:netherite_leggings"
+  },
+  "addition": {
+    "item": "extc:konium_r"
+  },
+  "result": {
+    "item": "extc:konium_leggings"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i",
+    "S"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "extc:stone_shovel"
+    }
+  },
+  "result": {
+    "item": "extc:iron_shovel",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extc:blocks/konium_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "extc:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "extc:konium_r"
+  },
+  "result": {
+    "item": "extc:konium_pickaxe"
+  }
+}

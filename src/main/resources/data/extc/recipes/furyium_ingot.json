@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extc:furyium_block"
+    }
+  ],
+  "result":
+  {
+    "item": "extc:furyium_ingot",
+    "count": 9
+  }
+}

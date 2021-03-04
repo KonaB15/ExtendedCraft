@@ -1,0 +1,119 @@
+{
+  "itemGroup.extcTab":"ExtendedCraft Materials",
+  "itemGroup.exctArmor": "ExtendedCraft Armor",
+  "itemGroup.exctTools": "ExtendedCraft Tools",
+
+  "biome.extc.furious_biome": "Furyium Caves Dimension",
+
+
+
+
+
+
+
+  "item.extc.konium": "Konium Ingot",
+  "item.extc.konium_r": "Refined Konium",
+  "item.extc.furyium_raw": "Raw Furyium",
+  "item.extc.furyium_ingot": "Furyium Ingot",
+  "item.extc.star_shard": "Nether Star Shard",
+
+
+  "item.extc.stone_upgrade": "Stone Upgrade",
+  "item.extc.gold_upgrade": "Gold Upgrade",
+  "item.extc.chain_upgrade": "Chainmail Upgrade",
+  "item.extc.iron_upgrade": "Iron Upgrade",
+  "item.extc.diamond_upgrade": "Diamond Upgrade",
+  "item.extc.netherite_upgrade": "Netherite Upgrade",
+  "item.extc.konium_upgrade": "Konium Upgrade",
+  "item.extc.furyium_upgrade": "Furyium Upgrade",
+
+
+
+  "item.extc.leather_helmet": "Leather Helmet",
+  "item.extc.leather_chestplate": "Leather Chestplate",
+  "item.extc.leather_leggings": "Leather Leggings",
+  "item.extc.leather_boots": "Leather Boots",
+  "item.extc.gold_helmet": "Golden Helmet",
+  "item.extc.gold_chestplate": "Golden Chestplate",
+  "item.extc.gold_leggings": "Golden Leggings",
+  "item.extc.gold_boots": "Golden Boots",
+  "item.extc.chain_helmet": "Chainmail Helmet",
+  "item.extc.chain_chestplate": "Chainmail Chestplate",
+  "item.extc.chain_leggings": "Chainmail Leggings",
+  "item.extc.chain_boots": "Chainmail Boots",
+  "item.extc.iron_helmet": "Iron Helmet",
+  "item.extc.iron_chestplate": "Iron Chestplate",
+  "item.extc.iron_leggings": "Iron Leggings",
+  "item.extc.iron_boots": "Iron Boots",
+  "item.extc.diamond_helm": "Diamond Helmet",
+  "item.extc.diamond_chestplate": "Diamond Chestplate",
+  "item.extc.diamond_leggings": "Diamond Leggings",
+  "item.extc.diamond_boots": "Diamond Boots",
+  "item.extc.netherite_helmet": "Netherite Helmet",
+  "item.extc.netherite_chestplate": "Netherite Chestplate",
+  "item.extc.netherite_leggings": "Netherite Leggings",
+  "item.extc.netherite_boots": "Netherite Boots",
+  "item.extc.konium_helmet": "Konium Helmet",
+  "item.extc.konium_chestplate": "Konium Chestplate",
+  "item.extc.konium_leggings": "Konium Leggings",
+  "item.extc.konium_boots": "Konium Boots",
+  "item.extc.furyium_helmet": "Furyium Helmet",
+  "item.extc.furyium_chestplate": "Furyium Chestplate",
+  "item.extc.furyium_leggings": "Furyium Leggings",
+  "item.extc.furyium_boots": "Furyium Boots",
+
+  "item.extc.wooden_sword": "Wooden Sword",
+  "item.extc.wooden_pickaxe": "Wooden Pickaxe",
+  "item.extc.wooden_axe": "Wooden Axe",
+  "item.extc.wooden_shovel": "Wooden Shovel",
+  "item.extc.wooden_hoe": "Wooden Hoe",
+  "item.extc.stone_sword": "Stone Sword",
+  "item.extc.stone_pickaxe": "Stone Pickaxe",
+  "item.extc.stone_axe": "Stone Axe",
+  "item.extc.stone_shovel": "Stone Shovel",
+  "item.extc.stone_hoe": "Stone Hoe",
+  "item.extc.gold_sword": "Golden Sword",
+  "item.extc.gold_pickaxe": "Golden Pickaxe",
+  "item.extc.gold_shovel": "Golden Shovel",
+  "item.extc.gold_axe": "Golden Axe",
+  "item.extc.gold_hoe": "Golden Hoe",
+  "item.extc.iron_sword": "Iron Sword",
+  "item.extc.iron_pickaxe": "Iron Pickaxe",
+  "item.extc.iron_axe": "Iron Axe",
+  "item.extc.iron_shovel": "Iron Shovel",
+  "item.extc.iron_hoe": "Iron Hoe",
+  "item.extc.diamond_sword": "Diamond Sword",
+  "item.extc.diamond_pickaxe": "Diamond Pickaxe",
+  "item.extc.diamond_axe": "Diamond Axe",
+  "item.extc.diamond_shovel": "Diamond Shovel",
+  "item.extc.diamond_hoe": "Diamond Hoe",
+  "item.extc.netherite_sword": "Netherite Sword",
+  "item.extc.netherite_pickaxe": "Netherite Pickaxe",
+  "item.extc.netherite_axe": "Netherite Axe",
+  "item.extc.netherite_shovel": "Netherite Shovel",
+  "item.extc.netherite_hoe": "Netherite Hoe",
+  "item.extc.konium_sword": "Konium Sword",
+  "item.extc.konium_pickaxe": "Konium Pickaxe",
+  "item.extc.konium_axe": "Konium Axe",
+  "item.extc.konium_shovel": "Konium Shovel",
+  "item.extc.konium_hoe": "Konium Hoe",
+  "item.extc.furyium_sword": "Furyium Sword",
+  "item.extc.furyium_pickaxe": "Furyium Pickaxe",
+  "item.extc.furyium_axe": "Furyium Axe",
+  "item.extc.furyium_shovel": "Furyium Shovel",
+  "item.extc.furyium_hoe": "Furyium Hoe",
+
+
+  "item.extc.u_sword": "Ultimate Sword",
+
+
+  "block.extc.konium_block": "Block of Konium",
+  "block.extc.konium_ore": "Konium Ore",
+  "block.extc.furyium_ore": "Furyium Ore",
+  "block.extc.raw_furyium_block": "Raw Block of Furyium",
+  "block.extc.raw_furyium_bricks": "Raw Furyium Bricks",
+  "block.extc.furyium_bricks": "Furyium Bricks",
+  "block.extc.furyium_block": "Block of Furyium"
+
+
+}

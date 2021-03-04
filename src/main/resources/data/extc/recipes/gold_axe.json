@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gg",
+    "gI"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "extc:iron_axe"
+    }
+  },
+  "result": {
+    "item": "extc:gold_axe",
+    "count": 1
+  }
+}

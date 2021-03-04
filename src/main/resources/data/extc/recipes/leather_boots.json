@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "W": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "extc:leather_boots",
+    "count": 1
+  }
+}

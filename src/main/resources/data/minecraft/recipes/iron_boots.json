@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "#G"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "extc:gold_axe"
+    }
+  },
+  "result": {
+    "item": null
+  }
+}

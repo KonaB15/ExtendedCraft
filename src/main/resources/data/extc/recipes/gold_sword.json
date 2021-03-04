@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "g",
+    "g",
+    "I"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "extc:iron_sword"
+    }
+  },
+  "result": {
+    "item": "extc:gold_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "#L#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "L": {
+      "item": "extc:leather_boots"
+    }
+  },
+  "result": {
+    "item": "extc:chain_boots",
+    "count": 1
+  }
+}

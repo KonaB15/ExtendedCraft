@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "zzz",
+    "xyx",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:string"
+    },
+    "y":
+    {
+      "item": "minecraft:stick"
+    },
+    "z":
+    {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result":
+  {
+    "item": "extc:wooden_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "extc:furyium_ore"
+  },
+  "result": "extc:furyium_raw",
+  "experience": 30.0,
+  "cookingtime": 1000
+}

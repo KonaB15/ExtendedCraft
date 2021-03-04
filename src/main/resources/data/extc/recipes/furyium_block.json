@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "extc:furyium_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "extc:furyium_block",
+    "count": 1
+  }
+}

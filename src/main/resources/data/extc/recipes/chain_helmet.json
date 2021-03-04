@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#L#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "L": {
+      "item": "extc:leather_helmet"
+    }
+  },
+  "result": {
+    "item": "extc:chain_helmet",
+    "count": 1
+  }
+}

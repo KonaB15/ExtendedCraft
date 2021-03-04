@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "extc:konium"
+  },
+  "addition": {
+    "item": "extc:furyium_raw"
+  },
+  "result": {
+    "item": "extc:furyium_ingot"
+  }
+}

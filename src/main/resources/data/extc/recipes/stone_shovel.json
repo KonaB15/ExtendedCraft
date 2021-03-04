@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "W"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "W": {
+      "item": "extc:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "extc:stone_shovel",
+    "count": 1
+  }
+}

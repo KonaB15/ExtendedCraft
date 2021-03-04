@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "GEU",
+    " S "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_powder"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "U": {
+      "item": "extc:konium_r"
+    },
+    "S": {
+      "item": "extc:star_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:ender_eye",
+    "count": 1
+  }
+}

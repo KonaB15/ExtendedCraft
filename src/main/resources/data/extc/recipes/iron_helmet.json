@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "iCi"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "extc:chain_helmet"
+    }
+  },
+  "result": {
+    "item": "extc:iron_helmet",
+    "count": 1
+  }
+}

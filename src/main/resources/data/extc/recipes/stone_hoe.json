@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    " W"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "W": {
+      "item": "extc:wooden_hoe"
+    }
+  },
+  "result": {
+    "item": "extc:stone_hoe",
+    "count": 1
+  }
+}
