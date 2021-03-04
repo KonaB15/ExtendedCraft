@@ -17,7 +17,7 @@ displayName="ExtendedCraft" #mandatory
 
 updateJSONURL="http://myurl.me/" #optional
 
-#displayURL="http://example.com/" #optional
+displayURL="https://github.com/KonaB15/ExtendendedCraft2" #optional
 
 logoFile="ExtendedCraft.png" #optional
 
