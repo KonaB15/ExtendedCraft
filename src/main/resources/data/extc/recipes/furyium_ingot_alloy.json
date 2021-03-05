@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "extc:konium"
+    "item": "extc:konium_r"
   },
   "addition": {
     "item": "extc:furyium_raw"

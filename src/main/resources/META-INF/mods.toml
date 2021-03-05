@@ -17,7 +17,7 @@ displayName="ExtendedCraft" #mandatory
 
 updateJSONURL="http://myurl.me/" #optional
 
-displayURL="https://github.com/KonaB15/ExtendendedCraft2" #optional
+displayURL="https://github.com/KonaB15/ExtendendedCraft" #optional
 
 logoFile="ExtendedCraft.png" #optional
 
@@ -26,6 +26,7 @@ credits="Thanks to FuriousMiner for helping me make some of the textures." #opti
 authors="KonaB15" #optional
 
 description='''
+2.1 - Fixed some crafting recipes. Added ore generation.
 2.0 - Completely re-wrote the crafting system!
 '''
 

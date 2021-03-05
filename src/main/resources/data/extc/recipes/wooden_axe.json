@@ -3,15 +3,11 @@
   "pattern":
   [
     "zz ",
-    "zyx",
+    "zy ",
     " y "
   ],
   "key":
   {
-    "x":
-    {
-      "item": "minecraft:string"
-    },
     "y":
     {
       "item": "minecraft:stick"

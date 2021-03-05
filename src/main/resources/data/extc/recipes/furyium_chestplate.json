@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "extc:konium_chestplate"
+  },
+  "addition": {
+    "item": "extc:furyium_ingot"
+  },
+  "result": {
+    "item": "extc:furyium_chestplate"
+  }
+}
