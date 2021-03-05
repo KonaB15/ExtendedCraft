@@ -18,7 +18,7 @@ import net.minecraftforge.fml.common.Mod;
 
 @Mod.EventBusSubscriber(modid = ExtendedCraft.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class OreGeneration {
-    
+
 
 
     public static void addFeaturesToBiomes(BiomeLoadingEvent event) {
